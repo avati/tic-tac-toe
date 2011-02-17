@@ -1,0 +1,4 @@
+Tic tac toe strategy players (in Scheme/Lisp)
+
+ttt.scm  - First attempt (bit slow)
+ttt2.scm - Neater second attempt (more readable)
